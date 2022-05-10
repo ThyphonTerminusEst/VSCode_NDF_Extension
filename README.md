@@ -1,6 +1,6 @@
 # NDF README
 
-A an extension for NDF in VSCode.
+An extension for NDF in VSCode.
 
 ## Features
 
