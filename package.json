@@ -1,0 +1,25 @@
+{
+    "name": "ndf",
+    "displayName": "NDF",
+    "description": "NDF Language support",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "ndf",
+            "aliases": ["NDF", "ndf"],
+            "extensions": [".ndf",".gds"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ndf",
+            "scopeName": "source.ndf",
+            "path": "./syntaxes/NDF.tmLanguage"
+        }]
+    }
+}
