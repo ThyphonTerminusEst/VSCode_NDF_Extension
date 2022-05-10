@@ -12,7 +12,7 @@ You are going to need to be able to work with .ndf, hence the existence of this 
 
 Make sure you have JSON installed.
 
-Place the extension into 'C:\Users\User\.vscode\extensions'
+Place the extension into 'C:\Users\User\ .vscode\extensions'
 
 ## Known Issues
 
